@@ -2,4 +2,3 @@ test1
 1
 ichi
 one
-01
